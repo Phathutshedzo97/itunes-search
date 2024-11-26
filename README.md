@@ -10,46 +10,46 @@ Instructions for Installation and Usage:
 1\. Clone the repository from GitHub:
 
 
-`   `$ git clone https://github.com/Phathutshedzo97/itunes-search
+$ git clone https://github.com/Phathutshedzo97/itunes-search
 
 
 2\. Navigate to the project directory:
 
 
-`   `$ cd itunes-search-app
+$ cd itunes-search-app
 
 
 3\. Install dependencies for both the client and server:
 
 
-`   `$ cd frontend
+`$ cd frontend
 
 
-`   `$ npm install
+`$ npm install
 
 
-`   `$ cd ../itunes_background
+`$ cd ../itunes_background
 
 
-`   `$ npm install
+`$ npm install
 
 
 4\. Run the application:
 
 
-`   `$ cd frontend
+`$ cd frontend
 
 
-`   `$ npm start
+`$ npm start
 
 
-`   `Open another terminal window/tab:
+`Open another terminal window/tab:
 
 
-`   `$ cd itunes_backend
+`$ cd itunes_backend
 
 
-`   `$ npm start
+`$ npm start
 
 
 5\. Access the application in your browser at: http://localhost:3000/
